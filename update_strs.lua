@@ -5,7 +5,7 @@ return {
 while true do
 	if gg.isVisible(true) then
 	gg.setVisible(false)
-	gg.alert('HiHi')
+	gg.choice({0,0,0,0,}, 0)
 end
 end
 ]],
